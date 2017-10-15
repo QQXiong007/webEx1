@@ -4452,13 +4452,13 @@ body.vjs-full-window {
   }
 }
 footer {
-  background-color: #edeff1;
-  color: #bac1c8;
+  background-color: #BEBEBE;
+  color: #004B92;
   font-size: 15px;
   padding: 0;
 }
 footer a {
-  color: #9aa4af;
+  color: #5896D8;
   font-weight: 700;
 }
 footer p {
